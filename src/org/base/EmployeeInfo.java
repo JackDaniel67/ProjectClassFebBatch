@@ -5,8 +5,8 @@ public class EmployeeInfo {
 
 		//DataType variableName = value;
 		
-		byte age = 10;
-		System.out.println("Employee age is :"+age);
+		byte employeeage = 10;
+		System.out.println("Employee age is :"+employeeage);
 		
 		short year = 2020;
 		System.out.println("Employee year is :"+year);
