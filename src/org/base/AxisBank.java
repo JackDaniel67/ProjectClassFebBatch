@@ -6,6 +6,8 @@ public interface AxisBank {
 	void fixedDeposite();
 	void goldLoan();
 	void houseLoan();
+	void deposite();
+	void LoanIntrest();
 	
 
 }
